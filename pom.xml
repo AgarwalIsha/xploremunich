@@ -96,4 +96,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	
+	<scm>
+	<connection>scm:git:git@github.com:AgarwalIsha/xploremunich.de.git</connection>
+	<url>scm:git:git@github.com:AgarwalIsha/xploremunich.de.git</url>
+	<developerConnection>scm:git:git@github.com:AgarwalIsha/xploremunich.de.git</developerConnection>
+  </scm>
+	
 </project>
